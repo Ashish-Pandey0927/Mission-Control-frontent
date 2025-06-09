@@ -1,6 +1,6 @@
-# 🚀 Mission Control Backend
+# 🚀 Mission Control 
 
-This is the backend server for the **Mission Control** web application. It provides RESTful APIs to manage and track space missions in real-time. Built with Flask and supports user authentication, mission creation, logs, and more.
+This is the /Frontendbackend server for the **Mission Control** web application. It provides RESTful APIs to manage and track space missions in real-time. Built with Node.js and supports user authentication, mission creation, logs, and more.
 
 ---
 
